@@ -1,0 +1,21 @@
+* {
+  font-family: sans-serif;
+}
+
+.bar-chart {
+  border: solid 1px grey;
+  width: 700px;
+}  
+
+.bar {
+  height: 20px;
+  fill: orange;
+}
+
+.label {
+  font-size: 12px;
+}
+
+.category {
+  text-anchor: end;
+}
